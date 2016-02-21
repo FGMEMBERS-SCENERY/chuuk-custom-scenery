@@ -1,0 +1,11 @@
+# osm2city__home_delta_Chuuk_osm
+# do not edit below this line
+# Last Written Sun Feb 21 14:55:36 2016
+#
+OBJECT_STATIC _home_delta_Chuuk_osmcity1841.xml 151.57361 7.38251 -0.17 0
+OBJECT_STATIC lightmap-switch.xml 151.57361 7.38251 -0.17 0
+OBJECT_STATIC _home_delta_Chuuk_osmcity1941.xml 151.59172 7.38251 -0.01 0
+OBJECT_STATIC _home_delta_Chuuk_osmcity1942.xml 151.59172 7.40059 -0.35 0
+OBJECT_STATIC _home_delta_Chuuk_osmcity2041.xml 151.60983 7.38251 37.38 0
+OBJECT_STATIC _home_delta_Chuuk_osmcity2042.xml 151.60983 7.40059 -0.18 0
+# END osm2city__home_delta_Chuuk_osm

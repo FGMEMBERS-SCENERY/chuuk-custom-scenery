@@ -1,0 +1,29 @@
+# osm2roads__home_delta_Chuuk_osm
+# do not edit below this line
+# Last Written Sun Feb 21 14:53:49 2016
+#
+OBJECT_STATIC _home_delta_Chuuk_osmroads4650.xml 151.84212 7.41327 0.00 0
+OBJECT_STATIC _home_delta_Chuuk_osmroads4651.xml 151.84212 7.43135 19.36 0
+OBJECT_STATIC _home_delta_Chuuk_osmroads4652.xml 151.84212 7.44944 3.19 0
+OBJECT_STATIC _home_delta_Chuuk_osmroads4752.xml 151.86023 7.44944 55.97 0
+# END osm2roads__home_delta_Chuuk_osm
+# osm2city__home_delta_Chuuk_osm
+# do not edit below this line
+# Last Written Sun Feb 21 14:55:36 2016
+#
+OBJECT_STATIC _home_delta_Chuuk_osmcity3243.xml 151.82715 7.41868 -0.10 0
+OBJECT_STATIC lightmap-switch.xml 151.82715 7.41868 -0.10 0
+OBJECT_STATIC _home_delta_Chuuk_osmcity3244.xml 151.82715 7.43676 -0.29 0
+OBJECT_STATIC _home_delta_Chuuk_osmcity3245.xml 151.82715 7.45484 -0.64 0
+OBJECT_STATIC _home_delta_Chuuk_osmcity3342.xml 151.84526 7.40059 -0.46 0
+OBJECT_STATIC _home_delta_Chuuk_osmcity3343.xml 151.84526 7.41868 11.91 0
+OBJECT_STATIC _home_delta_Chuuk_osmcity3344.xml 151.84526 7.43676 63.62 0
+OBJECT_STATIC _home_delta_Chuuk_osmcity3345.xml 151.84526 7.45484 16.48 0
+OBJECT_STATIC _home_delta_Chuuk_osmcity3346.xml 151.84526 7.47293 -0.12 0
+OBJECT_STATIC _home_delta_Chuuk_osmcity3441.xml 151.86337 7.38251 -0.00 0
+OBJECT_STATIC _home_delta_Chuuk_osmcity3442.xml 151.86337 7.40059 -0.19 0
+OBJECT_STATIC _home_delta_Chuuk_osmcity3443.xml 151.86337 7.41868 -0.05 0
+OBJECT_STATIC _home_delta_Chuuk_osmcity3444.xml 151.86337 7.43676 25.57 0
+OBJECT_STATIC _home_delta_Chuuk_osmcity3445.xml 151.86337 7.45484 59.82 0
+OBJECT_STATIC _home_delta_Chuuk_osmcity3446.xml 151.86337 7.47293 -0.01 0
+# END osm2city__home_delta_Chuuk_osm
